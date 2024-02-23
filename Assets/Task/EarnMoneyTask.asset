@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1701106b15524844e95bb286455d4c00, type: 3}
+  m_Name: EarnMoneyTask
+  m_EditorClassIdentifier: 
+  taskName: "\u968F"
+  taskTarget: 10
+  taskNow: 0
+  taskState: 0
+  taskAward: 0
+  CurrTaskGoods:
+  - {fileID: 11400000, guid: 3957c202d1a62a043b71e10c1379b06e, type: 2}
+  RewardNum: d8030000
+  CurrTaskDescription: "\u5982\u679C\u6211\u4E3A\u4F01\u9E45\u4F01\u9E45\u7236\u4EB2\u4E8C\u5206\u53BB\u8BF7\u95EE\u53BB\u7FFB\u5899\u53BBF"
+  money: 1
